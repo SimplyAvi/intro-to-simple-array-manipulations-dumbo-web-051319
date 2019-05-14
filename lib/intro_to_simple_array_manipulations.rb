@@ -22,6 +22,7 @@ def using_unshift(array,string)
 def using_pop(array)
   return array.pop
 end
+
 def using pop_with_args(array)
   return array.pop(2)
 end
